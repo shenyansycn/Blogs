@@ -2,7 +2,7 @@
 > 作者 : shenyansycn
 > Github : https://github.com/shenyansycn
 > CSDN Blog : http://blog.csdn.net/shenyansycn
-> 此文同步在Github和CSND Blog上发布
+> 此文同步在[Github](https://github.com/shenyansycn/Blogs/blob/master/HTTP%20Protocol/HTTP%E5%8D%8F%E8%AE%AE%20%EF%BC%8D%20Hello%20HTTP%20Protocol.md)和[CSND Blog](http://blog.csdn.net/shenyansycn/article/details/51191801)上发布
 
 本系列课程主要面向有HTTP基础的开发者，需要了解基础知识的请访问[这里](https://zh.wikipedia.org/zh-cn/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)。
 本章会一个HTTP请求的例子来作为接入点。在讲解例子前，我们需要做些准备工作。包括：
